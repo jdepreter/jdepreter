@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 👋
+
+Welcome to my Github profile. 
+
+There's not much to see here at the moment, but feel free to take a look!
 
 <!--
 **jdepreter/jdepreter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
